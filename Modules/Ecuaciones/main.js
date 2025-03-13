@@ -1,6 +1,6 @@
 import sumNumb from "./sum.js";
 import minNumb from "./min.js";
-import div from "./div.js";
+import div from "../div.js";
 import multi from "./multi.js";
 
 console.log("la multiplicación es:", multi(3, 5))

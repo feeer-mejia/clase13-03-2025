@@ -2,4 +2,4 @@ const sumNumb = (a, b) => {
     return a + b;
 }
 
-export default sumNumb;
+export default sumNumb
